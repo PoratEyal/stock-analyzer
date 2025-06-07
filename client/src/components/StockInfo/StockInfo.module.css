@@ -1,0 +1,12 @@
+.info-container {
+  margin-bottom: 1rem;
+}
+
+.info-item {
+  margin: 0.25rem 0;
+}
+
+.info-label {
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
