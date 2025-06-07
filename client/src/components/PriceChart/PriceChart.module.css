@@ -1,0 +1,12 @@
+.chart-container {
+  margin-bottom: 1rem;
+}
+
+.chart-title {
+  margin-bottom: 0.5rem;
+}
+
+.chart {
+  position: relative;
+  height: 300px;
+}
